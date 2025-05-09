@@ -4,7 +4,7 @@ Design patterns are powerful tools in software development, providing reusable s
 
 ---
 
-<img src="https://raw.githubusercontent.com/kavaan/design-pattern-with-scenarios/refs/heads/main/20-design-patterns.jpg"/>
+<img src="https://raw.githubusercontent.com/kavaan/design-pattern-with-scenarios/refs/heads/main/20-design-patterns-img.jpg"/>
 
 ## 🔁 **Creational Patterns**
 
